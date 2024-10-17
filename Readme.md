@@ -1,4 +1,4 @@
-![](media/image1.png){width="4.858333333333333in"
+![](images/Simulation-Centric.webp){width="4.858333333333333in"
 height="7.004166666666666in"}**"AI-first" driving simulator will have
 the edge**
 
@@ -43,7 +43,7 @@ the edge**
 > substantial, driven by the increasing demand for efficient and
 > reliable freight solutions amid a growing driver shortage.
 >
-> ![Autonomous Truck Market ](media/image2.jpeg){width="6.25in"
+> ![Autonomous Truck Market ](images/autonomous-truck-market-2023-2032.jpg){width="6.25in"
 > height="3.283333333333333in"}
 >
 > Image reference: [Autonomous Truck Market Size & Share \| Industry
