@@ -1,4 +1,5 @@
-![](images/Simulation-Centric.webp =384x672)**"AI-first" driving simulator will have
+<img src="images/Simulation-Centric.webp" width="384" height="672">
+**"AI-first" driving simulator will have
 the edge**
 
 > Waabi World -- a unique approach to autonomous trucking
