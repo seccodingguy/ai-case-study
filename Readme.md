@@ -9,13 +9,13 @@
 > Waabi was founded in 2021 by Raquel Urtasun bringing a 20 year career
 > in AI and 10 years of experience building self-driving solutions to
 > build on the vision of an autonomous vehicle. ([Team -- Waabi](https://waabi.ai/team/))
-
+>
 > The idea for Waabi emerged from Urtasun\'s extensive experience in AI
 > and her desire to address the challenges in the autonomous vehicle
 > industry, particularly in trucking. Her background at Uber\'s Advanced
 > Technology Group and her focus on safety and efficiency in autonomous
 > systems played a crucial role in shaping Waabi\'s mission. ([Waabi, the rare autonomous vehicle startup with a woman CEO, raises \$83.5 million - The Verge](https://www.theverge.com/2021/6/8/22522824/waabi-raquel-urtasun-autonomous-vehicle-startup-stealth-funding))
-
+>
 > There is interest in the concept Waabi is bringing to the autonomous
 > vehicle approach successfully landing \$200 million in capital to
 > design, develop, and test the flagship product Waabi World by 2025. ([Waabi Raises \$200M USD to Launch Fully Driverless Trucks in 2025 -- Waabi](https://waabi.ai/waabi-series-b-announcement/))
@@ -24,9 +24,9 @@
 
 ## 2.  BUSINESS
 
-> Waabi World is aligned to address the following challenges: [\'AI
-> first\' approach to self-driving cars with Waabi World I Cassie
-> (trustcassie.com)](https://trustcassie.com/resources/blog/ai-first-approach-to-self-driving-cars/)
+<details>
+
+> Waabi World is aligned to address the following challenges: [\'AI first\' approach to self-driving cars with Waabi World I Cassie (trustcassie.com)](https://trustcassie.com/resources/blog/ai-first-approach-to-self-driving-cars/)
 
 -   shortage of truck drivers
 
@@ -39,30 +39,33 @@
 > substantial, driven by the increasing demand for efficient and
 > reliable freight solutions amid a growing driver shortage.
 >
->
+
 <img src="images/autonomous-truck-market-2023-2032.jpg" width="576" height="288">
->
-> Image reference: [Autonomous Truck Market Size & Share \| Industry
-> Report, 2032
-> (gminsights.com)](https://www.gminsights.com/industry-analysis/autonomous-truck-market)
+
+> Image reference: [Autonomous Truck Market Size & Share \| Industry Report, 2032 (gminsights.com)](https://www.gminsights.com/industry-analysis/autonomous-truck-market)
+
+</details>
 
 ## 3.  TECHNOLOGY APPROACH TO A UNIQUE SOLUTION
+
+<details>
 
 > Waabi\'s innovative use of generative AI allows for human-like
 > reasoning significantly reducing the need for extensive data model
 > training and related compute resources. This approach enables faster
 > and lower costs of development compared to other companies in the
-> industry [Waabi Raises \$200M USD to Launch Fully Driverless Trucks in
-> 2025 -- Waabi](https://waabi.ai/waabi-series-b-announcement/).
+> industry [Waabi Raises \$200M USD to Launch Fully Driverless Trucks in 2025 -- Waabi](https://waabi.ai/waabi-series-b-announcement/).
 >
 > Waabi employs a proprietary end-to-end AI system capable of reasoning
 > and generalizing to new situations. Additionally, it utilizes Waabi
 > World, an advanced simulation platform that minimizes the need for
-> on-road testing, thereby enhancing safety and scalability. ([Waabi --
-> The next generation of self-driving technology starts
-> here.](https://waabi.ai/))
+> on-road testing, thereby enhancing safety and scalability. ([Waabi -- The next generation of self-driving technology starts here.](https://waabi.ai/))
+
+</details>
 
 ## 4.  RECOMMENDATIONS
+
+<details>
 
 > Waabi could consider expanding its offerings to include a fleet
 > management system that integrates real-time data analytics and
@@ -82,3 +85,5 @@
 >
 > **NOTE:** Recommendations were created with the assistance of GPT 4o
 > Mini
+
+</details>
