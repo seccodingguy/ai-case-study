@@ -5,26 +5,23 @@
 
 ## 1.  INTRODUCTION
 <details>
-> Waabi was founded in 2021 by Raquel Urtasun bringing a 20 year career
-> in AI and 10 years of experience building self-driving solutions to
-> build on the vision of an autonomous vehicle. ([Team --
-> Waabi](https://waabi.ai/team/))
->
-> The idea for Waabi emerged from Urtasun\'s extensive experience in AI
-> and her desire to address the challenges in the autonomous vehicle
-> industry, particularly in trucking. Her background at Uber\'s Advanced
-> Technology Group and her focus on safety and efficiency in autonomous
-> systems played a crucial role in shaping Waabi\'s mission. ([Waabi,
-> the rare autonomous vehicle startup with a woman CEO, raises \$83.5
-> million - The
-> Verge](https://www.theverge.com/2021/6/8/22522824/waabi-raquel-urtasun-autonomous-vehicle-startup-stealth-funding))
->
-> There is interest in the concept Waabi is bringing to the autonomous
-> vehicle approach successfully landing \$200 million in capital to
-> design, develop, and test the flagship product Waabi World by 2025.
-> ([Waabi Raises \$200M USD to Launch Fully Driverless Trucks in 2025 --
-> Waabi](https://waabi.ai/waabi-series-b-announcement/))
+
+Waabi was founded in 2021 by Raquel Urtasun bringing a 20 year career
+in AI and 10 years of experience building self-driving solutions to
+build on the vision of an autonomous vehicle. ([Team -- Waabi](https://waabi.ai/team/))
+
+The idea for Waabi emerged from Urtasun\'s extensive experience in AI
+and her desire to address the challenges in the autonomous vehicle
+industry, particularly in trucking. Her background at Uber\'s Advanced
+Technology Group and her focus on safety and efficiency in autonomous
+systems played a crucial role in shaping Waabi\'s mission. ([Waabi, the rare autonomous vehicle startup with a woman CEO, raises \$83.5 million - The Verge](https://www.theverge.com/2021/6/8/22522824/waabi-raquel-urtasun-autonomous-vehicle-startup-stealth-funding))
+
+There is interest in the concept Waabi is bringing to the autonomous
+vehicle approach successfully landing \$200 million in capital to
+design, develop, and test the flagship product Waabi World by 2025. ([Waabi Raises \$200M USD to Launch Fully Driverless Trucks in 2025 -- Waabi](https://waabi.ai/waabi-series-b-announcement/))
+
 </details>
+
 ## 2.  BUSINESS
 
 > Waabi World is aligned to address the following challenges: [\'AI
