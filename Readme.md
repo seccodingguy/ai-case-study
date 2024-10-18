@@ -28,6 +28,8 @@
 
 <details>
 
+<summary> </summary>
+
 > Waabi World is aligned to address the following challenges: [\'AI first\' approach to self-driving cars with Waabi World I Cassie (trustcassie.com)](https://trustcassie.com/resources/blog/ai-first-approach-to-self-driving-cars/)
 
 -   shortage of truck drivers
@@ -52,6 +54,8 @@
 
 <details>
 
+<summary> </summary>
+
 > Waabi\'s innovative use of generative AI allows for human-like
 > reasoning significantly reducing the need for extensive data model
 > training and related compute resources. This approach enables faster
@@ -68,6 +72,8 @@
 ## 4.  RECOMMENDATIONS
 
 <details>
+
+<summary> </summary>
 
 > Waabi could consider expanding its offerings to include a fleet
 > management system that integrates real-time data analytics and
