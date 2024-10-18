@@ -1,4 +1,4 @@
-| <img src="images/Simulation-Centric.webp" width="384" height="672"> | **"AI-first" driving simulator will have the edge** |
+| <img src="images/Simulation-Centric.webp" width="384" height="672"> | ### **"AI-first" driving simulator will have the edge** |
 
 # Waabi World -- a unique approach to autonomous trucking
 
@@ -41,9 +41,8 @@
 > substantial, driven by the increasing demand for efficient and
 > reliable freight solutions amid a growing driver shortage.
 >
-> ![Autonomous Truck Market ](images/autonomous-truck-market-2023-2032.jpg){width="6.25in"
-> height="3.283333333333333in"}
-<img src="images/autonomous-truck-market-2023-2032.jpg" width="384" height="170">
+>
+<img src="images/autonomous-truck-market-2023-2032.jpg" width="576" height="288">
 >
 > Image reference: [Autonomous Truck Market Size & Share \| Industry
 > Report, 2032
