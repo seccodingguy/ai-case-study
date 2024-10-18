@@ -1,9 +1,10 @@
-| <img src="images/Simulation-Centric.webp" width="384" height="672"> | ### **"AI-first" driving simulator will have the edge** |
+| <img src="images/Simulation-Centric.webp" width="384" height="672"> | **"AI-first" driving simulator will have the edge** |
+| :-- | :---: |
 
 # Waabi World -- a unique approach to autonomous trucking
 
 ## 1.  INTRODUCTION
-
+<details>
 > Waabi was founded in 2021 by Raquel Urtasun bringing a 20 year career
 > in AI and 10 years of experience building self-driving solutions to
 > build on the vision of an autonomous vehicle. ([Team --
@@ -23,7 +24,7 @@
 > design, develop, and test the flagship product Waabi World by 2025.
 > ([Waabi Raises \$200M USD to Launch Fully Driverless Trucks in 2025 --
 > Waabi](https://waabi.ai/waabi-series-b-announcement/))
-
+</details>
 ## 2.  BUSINESS
 
 > Waabi World is aligned to address the following challenges: [\'AI
