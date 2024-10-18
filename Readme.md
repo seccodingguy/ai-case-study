@@ -1,10 +1,8 @@
-<img src="images/Simulation-Centric.webp" width="384" height="672">
-**"AI-first" driving simulator will have
-the edge**
+| <img src="images/Simulation-Centric.webp" width="384" height="672"> | **"AI-first" driving simulator will have the edge** |
 
-> Waabi World -- a unique approach to autonomous trucking
+# Waabi World -- a unique approach to autonomous trucking
 
-1.  INTRODUCTION
+## 1.  INTRODUCTION
 
 > Waabi was founded in 2021 by Raquel Urtasun bringing a 20 year career
 > in AI and 10 years of experience building self-driving solutions to
@@ -26,7 +24,7 @@ the edge**
 > ([Waabi Raises \$200M USD to Launch Fully Driverless Trucks in 2025 --
 > Waabi](https://waabi.ai/waabi-series-b-announcement/))
 
-2.  BUSINESS
+## 2.  BUSINESS
 
 > Waabi World is aligned to address the following challenges: [\'AI
 > first\' approach to self-driving cars with Waabi World I Cassie
@@ -45,12 +43,13 @@ the edge**
 >
 > ![Autonomous Truck Market ](images/autonomous-truck-market-2023-2032.jpg){width="6.25in"
 > height="3.283333333333333in"}
+<img src="images/autonomous-truck-market-2023-2032.jpg" width="384" height="170">
 >
 > Image reference: [Autonomous Truck Market Size & Share \| Industry
 > Report, 2032
 > (gminsights.com)](https://www.gminsights.com/industry-analysis/autonomous-truck-market)
 
-3.  TECHNOLOGY APPROACH TO A UNIQUE SOLUTION
+## 3.  TECHNOLOGY APPROACH TO A UNIQUE SOLUTION
 
 > Waabi\'s innovative use of generative AI allows for human-like
 > reasoning significantly reducing the need for extensive data model
@@ -66,7 +65,7 @@ the edge**
 > The next generation of self-driving technology starts
 > here.](https://waabi.ai/))
 
-4.  RECOMMENDATIONS
+## 4.  RECOMMENDATIONS
 
 > Waabi could consider expanding its offerings to include a fleet
 > management system that integrates real-time data analytics and
@@ -86,10 +85,3 @@ the edge**
 >
 > **NOTE:** Recommendations were created with the assistance of GPT 4o
 > Mini
-
-5.  IMPLEMENTATION PLAN
-
-> Detail the steps and actions required to implement the chosen
-> recommendation. Include a timeline, responsibilities, and resources
-> needed for each step. Address potential challenges and mitigation
-> strategies.
