@@ -6,6 +6,8 @@
 ## 1.  INTRODUCTION
 <details>
 
+<summary> </summary>
+
 > Waabi was founded in 2021 by Raquel Urtasun bringing a 20 year career
 > in AI and 10 years of experience building self-driving solutions to
 > build on the vision of an autonomous vehicle. ([Team -- Waabi](https://waabi.ai/team/))
